@@ -59,7 +59,4 @@ b1.grid(row=2, column=1, columnspan=2)
 a_label.grid(row=3,column=1)
 a_entry.grid(row=3,column=2)
 
-
-
-
 win.mainloop()
